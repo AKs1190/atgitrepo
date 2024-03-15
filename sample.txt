@@ -1,5 +1,0 @@
-<<<<<<< HEAD
-this is merge confict V4 on issue1
-=======
-this is merge confict V2 on main
->>>>>>> parent of 2a10a63 (conflict commit v3 on main)
